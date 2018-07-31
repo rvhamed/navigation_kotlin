@@ -1,5 +1,6 @@
 navigation kotlin and  jetpack libs
 
+just for tutorial
 سورس آموزش برنامه نویسی اندروید با کاتلین
 لینک فیلم آموزش در آپارات در پایین قرار گرفته
 
